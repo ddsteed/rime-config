@@ -1,0 +1,61 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#
+# https://github.com/iDvel/rime-ice
+# ------- RDS 自定义词库，按需选择 -------
+#
+#
+---
+name: mylib
+version: "2024-07-09"
+sort: by_weight
+...
+### 按需启用
+# 注意，词内的格式是『词』＜Tab>『拼音』＜空格>『拼音』<空格>『拼音』＜Tab>『枚重』
+
+# 人名
+冯灏	feng hao
+冯灏	fh
+点点马	ddm
+南飞    nf
+向荣	xiang rong
+向荣	xr
+向丝	xs
+飘飘	piao piao
+飘飘	pp
+冯婧琪	feng jing qi
+冯婧琪	fjq
+冯大国	feng da guo
+邓勋芳	deng xun fang
+爸爸妈妈	bm
+朱冰	zhu bing
+朱冰	zb
+阿朱    az
+彭秋霞	peng qiu xia
+彭秋霞	pqx
+秋秋	qiu qiu
+秋秋	qq
+小秋秋	xqq
+南侠	nan xia
+南侠	nx
+王中最	wang zhong zui
+王中最	wzz
+付佳	fu jia
+刘斯	liu si
+胡庆辉	hu qing hui
+张长城	zhang chang cheng
+
+# 常用语
+大语言	da yu yan
+融郁行	ryx
+枫树谷	fsg
+即可思	jks
+谢谢	xx
+姑娘	gn
+老师	ls
+棕北	zb
+棕北国际	zbgj
+新川	xc
+文星	wx
+天府香城	tfxc
